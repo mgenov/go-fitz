@@ -1,4 +1,7 @@
-## go-fitz
+## go-fitz 
+
+A clone of github.com/gen2brain/go-fitz that contains few fixes to make bazel build happy.
+
 [![TravisCI Build Status](https://travis-ci.org/gen2brain/go-fitz.svg?branch=master)](https://travis-ci.org/gen2brain/go-fitz)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/vuuoq9epsd1sa007?svg=true)](https://ci.appveyor.com/project/gen2brain/go-fitz)
 [![GoDoc](https://godoc.org/github.com/gen2brain/go-fitz?status.svg)](https://godoc.org/github.com/gen2brain/go-fitz)
